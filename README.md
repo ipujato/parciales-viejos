@@ -11,3 +11,5 @@ Repositorio con parciales de Algoritmos y Programación 3, de cuatrimestres ante
 - I – Interface definition
 - E – Exercise Exceptional behavior
 - S – Simple Scenarios, Simple Solutions
+[Apuntes en la pagina](https://algoritmos-iii.github.io/apuntes.html)
+
